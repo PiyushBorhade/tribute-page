@@ -1,0 +1,23 @@
+*{
+	 background-color: lightblue;
+}
+
+h1{
+	 font-family: "Lucida Console", "Courier New", monospace;
+	text-align: center;
+	font-size: 45px;
+}
+
+img{
+	height: 400px;
+	width: 600px;
+	padding-left: 20px;
+	align-items: center;
+
+}
+
+body{
+	font-size: 30px;
+	color: 
+	  font-family: "Times New Roman", Times, serif;
+}
